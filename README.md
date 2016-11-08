@@ -48,4 +48,4 @@ Stores – Containers for application state & logic that have callbacks register
 Controller Views – React Components that grab the state from Stores and pass it down via props to child components.
 ```
  
-<img src="./docs/img/flux-simple-f8-diagram-with-client-action-1300w.png" style="width: 100%;" />
+<img src="./img/flux-simple-f8-diagram-with-client-action-1300w.png" style="width: 100%;" />
